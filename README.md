@@ -5,9 +5,9 @@ See [AMPT][ampt] for more information on the AMPT framework and the problems
 it solves.
 
 **ampt-monitor-zeek** is a plugin for [ampt-monitor][ampt_monitor], the event
-reporting component in the AMPT framework. It monitors Zeek signature logs to
-extract alert data for healthcheck probes and passes the data to ampt-monitor
-for delivery to the AMPT manager.
+reporting component in the AMPT framework. It monitors [Zeek][zeek] signature
+logs to extract alert data for healthcheck probes and passes the data to
+ampt-monitor for delivery to the AMPT manager.
 
 ## Installation and usage
 See the [Wiki][wiki] for further documentation.
